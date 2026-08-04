@@ -1,0 +1,26 @@
+Store_Id,Store_Name,City,State,Region,Channel
+1,Bengaluru Retail Store #1,Bengaluru,Karnataka,South,Retail Store
+2,Nagpur Franchise #2,Nagpur,Maharashtra,Central,Franchise
+3,Delhi Wholesale #3,Delhi,Delhi,North,Wholesale
+4,Bhopal Franchise #4,Bhopal,Madhya Pradesh,Central,Franchise
+5,Bhopal Franchise #5,Bhopal,Madhya Pradesh,Central,Franchise
+6,Bengaluru Retail Store #6,Bengaluru,Karnataka,South,Retail Store
+7,Chennai Online #7,Chennai,Tamil Nadu,South,Online
+8,Chandigarh Wholesale #8,Chandigarh,Punjab,North,Wholesale
+9,Jaipur Franchise #9,Jaipur,Rajasthan,North,Franchise
+10,Jaipur Franchise #10,Jaipur,Rajasthan,North,Franchise
+11,Delhi Retail Store #11,Delhi,Delhi,North,Retail Store
+12,Bengaluru Retail Store #12,Bengaluru,Karnataka,South,Retail Store
+13,Jaipur Franchise #13,Jaipur,Rajasthan,North,Franchise
+14,Nagpur Wholesale #14,Nagpur,Maharashtra,Central,Wholesale
+15,Ahmedabad Franchise #15,Ahmedabad,Gujarat,West,Franchise
+16,Patna Online #16,Patna,Bihar,East,Online
+17,Ahmedabad Franchise #17,Ahmedabad,Gujarat,West,Franchise
+18,Ahmedabad Franchise #18,Ahmedabad,Gujarat,West,Franchise
+19,Hyderabad Online #19,Hyderabad,Telangana,South,Online
+20,Kolkata Online #20,Kolkata,West Bengal,East,Online
+21,Mumbai Wholesale #21,Mumbai,Maharashtra,West,Wholesale
+22,Mumbai Online #22,Mumbai,Maharashtra,West,Online
+23,Bengaluru Online #23,Bengaluru,Karnataka,South,Online
+24,Nagpur Online #24,Nagpur,Maharashtra,Central,Online
+25,Chennai Retail Store #25,Chennai,Tamil Nadu,South,Retail Store

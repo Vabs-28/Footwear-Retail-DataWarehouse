@@ -1,0 +1,121 @@
+Product_Id,Product_Name,Brand_Id,Category_Id,Gender,Size,Color,Unit_Cost,Unit_Price,Launch_Date
+1,Sparx Running Shoes Navy Kids,2,1,Kids,7,Navy,746.52,1005.84,2024-03-08
+2,Red Chief Sneakers Black Unisex,9,2,Unisex,4,Black,599.82,882.35,2022-02-01
+3,Liberty Running Shoes Navy Women,10,1,Women,10,Navy,1737.47,2631.02,2022-12-09
+4,Campus Formal Shoes Red Unisex,1,3,Unisex,9,Red,797.53,1722.15,2022-10-06
+5,Puma Sneakers White Men,6,2,Men,10,White,1448.73,2284.3,2024-07-07
+6,Nike Running Shoes Blue Unisex,5,1,Unisex,5,Blue,552.16,843.99,2024-04-23
+7,Liberty Boots Black Women,10,6,Women,5,Black,2416.04,4794.43,2025-01-17
+8,Sparx Sandals Red Men,2,4,Men,10,Red,1750.91,3576.07,2022-04-19
+9,Bata Boots Red Kids,3,6,Kids,7,Red,2545.83,4835.47,2023-06-11
+10,Sparx Formal Shoes Olive Women,2,3,Women,6,Olive,1514.26,3316.3,2022-02-07
+11,Red Chief Sandals Navy Kids,9,4,Kids,4,Navy,2929.77,5902.88,2022-09-30
+12,Woodland Flip Flops Tan Men,7,5,Men,7,Tan,980.4,1690.47,2023-09-23
+13,Skechers Formal Shoes Navy Kids,8,3,Kids,6,Navy,2683.96,4729.21,2022-02-03
+14,Liberty Sports Sandals Navy Unisex,10,7,Unisex,9,Navy,3491.44,4823.13,2022-09-05
+15,Skechers Sneakers Grey Men,8,2,Men,5,Grey,2307.83,4621.37,2024-03-21
+16,Woodland Sneakers Olive Unisex,7,2,Unisex,10,Olive,1993.17,4330.21,2023-11-11
+17,Campus Sneakers White Kids,1,2,Kids,9,White,1239.2,1735.19,2022-10-02
+18,Campus Flip Flops Red Women,1,5,Women,5,Red,2993.34,5185.3,2024-01-05
+19,Adidas Formal Shoes Black Kids,4,3,Kids,6,Black,2216.62,3799.68,2024-10-06
+20,Sparx Boots Black Kids,2,6,Kids,7,Black,1070.79,1915.63,2022-01-09
+21,Sparx Sneakers Grey Unisex,2,2,Unisex,5,Grey,710.85,1209.52,2024-10-01
+22,Red Chief Formal Shoes Navy Kids,9,3,Kids,10,Navy,3272.52,6438.69,2024-05-20
+23,Adidas Flip Flops Olive Unisex,4,5,Unisex,9,Olive,3178.77,5336.87,2023-03-01
+24,Adidas Sandals Black Men,4,4,Men,9,Black,2182.59,3205.37,2022-07-13
+25,Adidas Running Shoes Navy Men,4,1,Men,4,Navy,515.68,659.99,2025-04-08
+26,Puma Sneakers Olive Women,6,2,Women,8,Olive,985.56,1355.83,2023-02-24
+27,Liberty Loafers Blue Women,10,8,Women,11,Blue,909.31,1220.37,2022-04-26
+28,Woodland Boots Olive Unisex,7,6,Unisex,10,Olive,3064.28,3988.05,2022-05-01
+29,Sparx Running Shoes White Unisex,2,1,Unisex,9,White,1095.7,1567.62,2024-11-22
+30,Skechers Formal Shoes Red Unisex,8,3,Unisex,6,Red,1780.41,3704.61,2024-01-23
+31,Sparx Loafers Black Men,2,8,Men,4,Black,3400.79,7243.85,2024-10-03
+32,Adidas Formal Shoes Olive Unisex,4,3,Unisex,11,Olive,983.99,1604.88,2024-06-28
+33,Campus Formal Shoes Blue Unisex,1,3,Unisex,4,Blue,1148.65,2291.4,2023-10-31
+34,Skechers Flip Flops Grey Unisex,8,5,Unisex,11,Grey,907.67,1322.31,2025-04-28
+35,Campus Running Shoes Black Kids,1,1,Kids,4,Black,2169.37,3748.04,2023-04-18
+36,Red Chief Formal Shoes Grey Men,9,3,Men,5,Grey,519.27,682.61,2023-11-20
+37,Adidas Sports Sandals Black Men,4,7,Men,7,Black,2282.02,3761.37,2024-10-31
+38,Liberty Boots Tan Kids,10,6,Kids,7,Tan,1063.8,1729.74,2024-02-11
+39,Nike Loafers Black Kids,5,8,Kids,5,Black,1766.51,3883.73,2024-12-10
+40,Sparx Sneakers Grey Women,2,2,Women,8,Grey,3286.43,6858.19,2023-12-21
+41,Adidas Boots Olive Kids,4,6,Kids,6,Olive,2967.98,5693.66,2024-05-28
+42,Liberty Running Shoes Grey Kids,10,1,Kids,5,Grey,1146.29,2401.74,2022-02-27
+43,Red Chief Formal Shoes Navy Kids,9,3,Kids,8,Navy,2596.36,3747.63,2022-10-12
+44,Nike Loafers White Kids,5,8,Kids,4,White,2329.71,4747.67,2022-12-27
+45,Campus Running Shoes Red Kids,1,1,Kids,6,Red,817.06,1364.28,2022-04-10
+46,Woodland Running Shoes Grey Men,7,1,Men,5,Grey,2045.89,4179.48,2022-10-18
+47,Liberty Formal Shoes Black Unisex,10,3,Unisex,6,Black,1286.43,2706.69,2022-05-06
+48,Campus Boots White Women,1,6,Women,7,White,1431.77,2551.26,2022-12-13
+49,Woodland Formal Shoes Grey Women,7,3,Women,6,Grey,3120.53,3974.14,2024-03-03
+50,Puma Sports Sandals Grey Women,6,7,Women,8,Grey,2819.6,3814.05,2023-03-31
+51,Campus Loafers Olive Women,1,8,Women,7,Olive,1418.91,2879.69,2023-04-07
+52,Adidas Sandals Blue Men,4,4,Men,7,Blue,1350.44,2796.94,2022-09-19
+53,Nike Boots Black Unisex,5,6,Unisex,9,Black,669.09,1453.18,2022-11-29
+54,Bata Flip Flops Blue Men,3,5,Men,5,Blue,1406.2,2808.33,2025-03-14
+55,Woodland Sneakers Red Unisex,7,2,Unisex,7,Red,442.04,735.67,2024-03-19
+56,Red Chief Sandals White Kids,9,4,Kids,10,White,3336.4,7088.96,2024-01-30
+57,Liberty Boots Red Men,10,6,Men,8,Red,2434.06,3796.83,2022-08-02
+58,Nike Formal Shoes Blue Women,5,3,Women,10,Blue,2467.42,5200.5,2024-06-28
+59,Liberty Flip Flops Red Unisex,10,5,Unisex,4,Red,1218.12,2020.12,2022-07-23
+60,Liberty Boots Olive Unisex,10,6,Unisex,11,Olive,2462.01,4273.1,2023-04-19
+61,Bata Sneakers White Kids,3,2,Kids,9,White,2918.96,5731.62,2025-05-18
+62,Nike Sandals Black Women,5,4,Women,6,Black,447.88,978.5,2024-03-09
+63,Liberty Sneakers Navy Unisex,10,2,Unisex,10,Navy,2598.71,4196.34,2023-11-26
+64,Woodland Sandals White Women,7,4,Women,4,White,2790.95,4068.92,2024-05-03
+65,Red Chief Loafers White Men,9,8,Men,7,White,1760.68,3541.34,2024-11-17
+66,Red Chief Boots Olive Unisex,9,6,Unisex,10,Olive,3171.07,6204.11,2024-08-25
+67,Skechers Loafers Red Kids,8,8,Kids,7,Red,2750.6,4800.44,2022-10-13
+68,Adidas Flip Flops Red Unisex,4,5,Unisex,5,Red,1050.38,1648.1,2022-02-10
+69,Red Chief Sneakers Navy Women,9,2,Women,6,Navy,1525.71,2128.62,2023-01-29
+70,Adidas Sneakers Tan Unisex,4,2,Unisex,10,Tan,2036.36,3349.78,2022-11-30
+71,Adidas Sports Sandals Blue Unisex,4,7,Unisex,4,Blue,1826.34,3918.6,2022-09-21
+72,Nike Sports Sandals Olive Unisex,5,7,Unisex,7,Olive,1002.15,1667.62,2025-03-21
+73,Campus Sports Sandals Grey Kids,1,7,Kids,10,Grey,2989.62,6348.65,2024-12-28
+74,Liberty Running Shoes White Unisex,10,1,Unisex,4,White,2356.8,3249.83,2023-01-28
+75,Skechers Formal Shoes Blue Men,8,3,Men,8,Blue,1347.53,2266.5,2024-03-28
+76,Puma Sports Sandals Red Kids,6,7,Kids,10,Red,2971.71,5042.37,2023-05-09
+77,Red Chief Running Shoes White Kids,9,1,Kids,7,White,2799.95,5233.57,2025-02-14
+78,Campus Sandals Grey Women,1,4,Women,4,Grey,1063.34,1807.55,2023-07-27
+79,Sparx Sandals Tan Unisex,2,4,Unisex,8,Tan,836.93,1528.97,2022-11-27
+80,Sparx Formal Shoes Black Kids,2,3,Kids,5,Black,3272.44,5880.6,2022-11-04
+81,Woodland Sports Sandals Navy Women,7,7,Women,5,Navy,626.08,1242.05,2023-12-02
+82,Liberty Sneakers Blue Men,10,2,Men,9,Blue,2416.87,3179.41,2022-11-24
+83,Puma Running Shoes White Unisex,6,1,Unisex,11,White,1687.27,2689.64,2023-12-30
+84,Skechers Formal Shoes Red Unisex,8,3,Unisex,6,Red,2270.92,4822.61,2025-01-24
+85,Skechers Loafers Tan Unisex,8,8,Unisex,8,Tan,3025.48,6169.54,2023-05-14
+86,Sparx Flip Flops Olive Unisex,2,5,Unisex,7,Olive,2123.52,4002.37,2022-10-01
+87,Puma Running Shoes Grey Unisex,6,1,Unisex,9,Grey,1860.16,2952.23,2025-05-28
+88,Nike Boots Black Kids,5,6,Kids,8,Black,1953.21,2796.03,2023-09-28
+89,Adidas Sports Sandals Olive Unisex,4,7,Unisex,7,Olive,2366.89,4062.25,2022-04-24
+90,Campus Sneakers Blue Kids,1,2,Kids,7,Blue,2513.72,3873.38,2022-02-28
+91,Liberty Boots Blue Unisex,10,6,Unisex,9,Blue,3489.22,6185.93,2022-05-17
+92,Puma Loafers Red Kids,6,8,Kids,8,Red,1037.72,2008.22,2024-02-22
+93,Puma Sneakers Navy Women,6,2,Women,7,Navy,2663.53,4029.05,2024-09-14
+94,Liberty Flip Flops Red Men,10,5,Men,7,Red,1027.95,1460.17,2023-06-11
+95,Campus Formal Shoes Black Kids,1,3,Kids,4,Black,2070.75,3960.41,2022-03-21
+96,Bata Loafers Red Men,3,8,Men,4,Red,1802.07,3006.66,2023-04-21
+97,Bata Running Shoes White Kids,3,1,Kids,11,White,2930.77,4779.12,2025-05-27
+98,Sparx Running Shoes Red Women,2,1,Women,6,Red,572.58,850.73,2023-10-22
+99,Red Chief Sports Sandals Olive Women,9,7,Women,10,Olive,3207.21,4915.0,2025-04-25
+100,Liberty Sports Sandals White Kids,10,7,Kids,4,White,3332.29,4823.15,2024-12-09
+101,Adidas Flip Flops Navy Men,4,5,Men,6,Navy,856.2,1131.31,2022-01-15
+102,Campus Sports Sandals Red Unisex,1,7,Unisex,11,Red,404.45,616.26,2024-06-17
+103,Nike Loafers Red Men,5,8,Men,7,Red,2821.05,5201.47,2024-04-30
+104,Adidas Sports Sandals Grey Men,4,7,Men,7,Grey,3206.92,6527.04,2023-11-01
+105,Sparx Running Shoes Red Women,2,1,Women,8,Red,1705.29,2890.92,2022-11-29
+106,Nike Sports Sandals Olive Kids,5,7,Kids,11,Olive,557.41,717.87,2024-03-10
+107,Woodland Boots White Kids,7,6,Kids,4,White,1032.56,1952.14,2022-05-20
+108,Liberty Running Shoes Grey Kids,10,1,Kids,4,Grey,1805.6,3374.55,2023-06-27
+109,Nike Formal Shoes White Unisex,5,3,Unisex,11,White,1804.03,2954.88,2023-07-20
+110,Puma Sneakers Blue Women,6,2,Women,9,Blue,2519.76,3839.63,2025-04-04
+111,Woodland Running Shoes Tan Unisex,7,1,Unisex,5,Tan,1107.68,1506.58,2024-12-28
+112,Woodland Running Shoes Black Unisex,7,1,Unisex,10,Black,900.26,1434.74,2022-11-25
+113,Skechers Loafers Red Men,8,8,Men,7,Red,2057.5,4385.13,2023-09-17
+114,Skechers Loafers Navy Men,8,8,Men,4,Navy,2571.31,3973.22,2022-08-11
+115,Campus Sports Sandals White Men,1,7,Men,7,White,1776.63,2419.05,2025-02-12
+116,Bata Loafers Blue Kids,3,8,Kids,8,Blue,2971.12,6480.7,2024-12-21
+117,Adidas Loafers Navy Women,4,8,Women,10,Navy,3249.98,5631.66,2023-01-08
+118,Bata Sneakers Tan Kids,3,2,Kids,10,Tan,3289.59,5698.72,2024-03-07
+119,Campus Flip Flops Grey Kids,1,5,Kids,11,Grey,1728.95,2956.72,2024-01-30
+120,Puma Sports Sandals Navy Unisex,6,7,Unisex,9,Navy,3438.48,5078.17,2022-07-10
