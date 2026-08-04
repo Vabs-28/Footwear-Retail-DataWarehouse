@@ -1,4 +1,4 @@
-# 👟 FootwearDW — Footwear Retail Data Warehouse
+# 👟 Footwear_DataWarehouse — Footwear Retail Data Warehouse
 
 Design and implementation of a **PostgreSQL data warehouse** for a footwear
 brand, built on a star schema to support sales, inventory, and channel/
@@ -34,7 +34,7 @@ day-to-day operations, but every report has to join the same three tables
 over and over, and there's no way to slice by store, region, channel, or
 time period without ad-hoc date math.
 
-`FootwearDW` instead separates **facts** (what happened — a sale, a stock
+`Footwear_DataWarehouse` instead separates **facts** (what happened — a sale, a stock
 count) from **dimensions** (the context it happened in — which product,
 which store, which day). That's what makes "sales by category by region by
 month" a single `GROUP BY` instead of a bespoke query every time.
@@ -205,7 +205,7 @@ footwear-dw/
 
 ## ✅ Conclusion
 
-`FootwearDW` provides a **dimensional data warehouse** for a footwear
+`Footwear_DataWarehouse` provides a **dimensional data warehouse** for a footwear
 retail business that:
 ✔ Separates facts from context for flexible slicing (product/store/time/customer)
 ✔ Enforces strong data integrity across every table
