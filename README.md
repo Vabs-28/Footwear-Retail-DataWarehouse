@@ -1,14 +1,8 @@
-# 👟 Footwear_DataWarehouse — Footwear Retail Data Warehouse
+# Footwear Retail Data Warehouse
 
 Design and implementation of a **PostgreSQL data warehouse** for a footwear
 brand, built on a star schema to support sales, inventory, and channel/
-geography reporting. This extends the simpler OLTP-style
-[Retail Inventory & Sales Management Database](https://github.com/Vabs-28/Retail-Inventory-And-Sales-Management-Database)
-project from a single normalized schema into a proper dimensional model
-sized for analytics — the kind of structure a BI/BA team would query for
-category, region, and channel performance.
-
----
+geography reporting. 
 
 ## 🔹 Features
 
